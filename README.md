@@ -1,45 +1,49 @@
 # Hi, I'm Aniket Sharma! 👋
 
-**Aspiring Full-Stack Web Developer | BSc IT Student | Passionate about building modern websites and apps**
+**Full-Stack Web Developer | BSc IT Graduate | Passionate about Crafting Modern Web Solutions**
 
-I'm Aniket, a final-year BSc IT student at **Shri P.L. Shroff College, Chinchani**, and a tech enthusiast specializing in **Front-end Development**, **Back-end Development**, and **API Integrations**.  
-I love crafting responsive, user-friendly web experiences and continuously improving my skills.
+Welcome to my GitHub!  
+I'm **Aniket Sharma**, a motivated Full-Stack Developer with a strong foundation in front-end and back-end technologies, currently completing my **Bachelor of Science in Information Technology** at **Shri P.L. Shroff College, Chinchani**.
+
+I am passionate about building scalable websites, seamless user experiences, and integrating APIs to create dynamic, data-driven applications.  
+Constantly evolving, learning, and striving to write clean, efficient code.
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Tech Stack & Tools
 
 ### Languages:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks / Libraries:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools:
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+### Tools & Platforms:
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-sharma-dev&show_icons=true&theme=radical)
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-sharma-dev&show_icons=true&theme=react&hide_border=true&count_private=true)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/sharma-aniket-dev)
-- 📧 Email: aniket.devworks@gmail.com
+- [LinkedIn](https://linkedin.com/in/sharma-aniket-dev)  
+- 📧 Email: aniket.devworks@gmail.com  
 - 📱 Phone: +91 9028014036
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_
+> _"Building digital experiences that empower people, one line of code at a time."_
+
