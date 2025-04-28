@@ -35,7 +35,7 @@ I specialize in both **front-end** and **back-end** technologies, and I enjoy in
 ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniket-sharma-dev&show_icons=true&theme=react&hide_border=true&count_private=true)
 
 ### 🏆 Contribution Graph:
-![Aniket's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniket-sharma-dev&theme=react)
+![Aniket's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aniketsharma108&theme=react)
 
 ---
 
