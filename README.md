@@ -51,22 +51,3 @@ I specialize in both **front-end** and **back-end** technologies, and I enjoy in
 
 ---
 
-### **Special Features**:
-1. **Typing Animation** - I will add this effect in the GitHub profile with a typing effect on introduction.
-2. **GitHub Stats** - Shows your coding activity and highlights the most important info.
-3. **Contribution Graph** - Shows your active contributions on GitHub, giving it a professional edge.
-
----
-
-### How to Use:
-- **Copy-paste this Markdown** into your GitHub repository **README.md**.
-- For the **typing animation**, this can be set up using a small JavaScript snippet on your webpage, but GitHub itself doesn’t support dynamic scripts directly in the profile README. I can give you more specific guidance on how to add this to a personal website if you want.
-
----
-
-If you'd like **additional animations or a fancier effect**, like:
-- **Typing animation on the introduction**
-- **Profile view counter**
-- **Animated GIFs or other visuals**
-
-Let me know, and I’ll help further fine-tune your GitHub profile!
